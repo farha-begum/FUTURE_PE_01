@@ -1,0 +1,13 @@
+Generate a services section for a cafe website.
+
+Details:
+- Coffee varieties
+- Fresh pastries
+- Free WiFi workspace
+
+Make each service:
+- Short
+- Attractive
+- Easy to read
+
+Tone: Friendly and inviting

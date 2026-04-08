@@ -43,6 +43,13 @@ Urban Cafreash – A cozy cafe designed for students and freelancers.
 - prompts/
 - outputs/
 - screenshots/
+  
+## 🔥 Wow Factors
+
+- 🎨 Multiple tone variations (Friendly, Premium, Minimal)
+- ⚡ Generates full website copy in seconds
+- 🔍 SEO-optimized content
+- 🔄 Reusable prompt system
 
 ## 🚀 Future Improvements
 - Web app version

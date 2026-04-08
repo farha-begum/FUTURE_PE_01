@@ -1,0 +1,8 @@
+Generate 5 call-to-action lines for a cafe website.
+
+Goal:
+- Encourage users to visit or work from cafe
+
+Tone:
+- Friendly
+- Energetic

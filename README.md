@@ -23,7 +23,8 @@ An AI-powered system that generates:
 - Small business owners
 
 ## ☕ Business Example
-Urban Cafreash – A cozy cafe designed for students and freelancers.
+-Urban Cafreash – A cozy cafe designed for students and freelancers
+- GlowUp Salon (Beauty & Grooming)
 
 ## ✨ Features
 - AI-generated website content

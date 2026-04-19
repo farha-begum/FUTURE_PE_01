@@ -1,5 +1,5 @@
-# AI Website Copy Generator for Local Businesses
-🚀 Generate complete website copy for cafes in seconds using AI
+# AI Website Copy Generator for Local Business
+🚀Built as a scalable AI content generation workflow for real-world business applications.
 
 ## 📌 Overview
 This project generates website content for local businesses using AI.  
@@ -53,6 +53,12 @@ An AI-powered system that generates:
 - ⚡ Generates full website copy in seconds
 - 🔍 SEO-optimized content
 - 🔄 Reusable prompt system
+
+## 💼 Business Use Case
+
+This system can be used by freelancers or agencies to quickly generate website content for local businesses.
+
+It reduces content creation time and helps deliver professional results at low cost.
 
 ## 🚀 Future Improvements
 - Web app version

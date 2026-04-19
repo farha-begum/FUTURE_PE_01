@@ -41,9 +41,6 @@ Urban Cafreash – A cozy cafe designed for students and freelancers.
 2. Use prompts
 3. Generate content instantly
 
-##📌 Example Business
-Urban Cafreash (Cafe)
-
 ## 📂 Project Structure
 - prompts/
 - outputs/

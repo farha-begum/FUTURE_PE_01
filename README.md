@@ -6,9 +6,11 @@ This project generates website content for local businesses using AI.
 It helps cafes and small businesses create professional website copy instantly.
 
 ## 🎯 Problem
-Many local businesses struggle to write effective website content.
+Small businesses struggle to write professional website content.
+Hiring copywriters is expensive.
 
 ## 💡 Solution
+This project uses AI + structured prompts to generate high-quality website copy instantly.
 An AI-powered system that generates:
 - Homepage content
 - Services section
@@ -38,6 +40,9 @@ Urban Cafreash – A cozy cafe designed for students and freelancers.
 1. Input business details
 2. Use prompts
 3. Generate content instantly
+
+##📌 Example Business
+Urban Cafreash (Cafe)
 
 ## 📂 Project Structure
 - prompts/
